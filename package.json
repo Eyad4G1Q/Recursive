@@ -1,0 +1,26 @@
+{
+  "name": "recursive",
+  "version": "1.0.0",
+  "description": "Recursive projects for practicing loop functions in recursion way. less effort + short time + intellegant vibes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest recursive.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eyad4G1Q/Recursive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eyad4G1Q/Recursive/issues"
+  },
+  "homepage": "https://github.com/Eyad4G1Q/Recursive#readme",
+  "devDependencies": {
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
+    "babel-jest": "^30.4.1",
+    "jest": "^30.4.2"
+  }
+}
